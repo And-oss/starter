@@ -12,5 +12,5 @@ M.ui = {
 	-- 	["@comment"] = { italic = true },
 	-- },
 }
-
+M.mappings = require("mappings")
 return M
